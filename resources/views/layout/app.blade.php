@@ -7,7 +7,7 @@
     
     <nav class="navbar navbar-expand-lg bg-success"  >
       <div class="container-fluid">
-    <a class="navbar-brand" href="{{ route('login') }}" style="color: white; font-weight: bold;">MEUCLOSITO's LIBRARY</a>
+    <a class="navbar-brand" href="{{ route('login') }}" style="color: white; font-weight: bold;"> LIBRARY</a>
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
