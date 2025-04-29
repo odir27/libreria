@@ -17,7 +17,7 @@
   
     <div class="container" style=" margin-top: 19%;  width: 35rem; "> 
         <form  method="POST"  action="{{ route('login') }}" style="color: white; " >
-    <h2 style="font-weight: bold; text-align: center;">LIBRERÍA DE MEUCLOSITO</h2>
+    <h2 style="font-weight: bold; text-align: center;">LIBRERÍA </h2>
     @csrf
     <div class="mb-3" style="text-align: center;">
         <label for="email" class="form-label">Email:</label>
